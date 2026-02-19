@@ -25,4 +25,4 @@
 * Шаги
 * Ожидаемый результат
 
-# Тест кейсы лежат в файле "Тест-кейсы_Оплата_банковской_картой.xlsx"
+# Тест кейсы лежат в файле "Тест-кейсы_Оплата_банковской_картой.xlsx", а также по ссылке https://docs.google.com/spreadsheets/d/1qWrPtPbHUvWx73av2Po8W2vSY846k2sJPTLayJg1QHM/edit?usp=sharing
